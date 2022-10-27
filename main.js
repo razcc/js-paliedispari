@@ -9,6 +9,7 @@ function pailndromo() {
     for (let i = parola.length - 1; i >= 0; i--) {
         parolaInversa += parola[i]; 
     }
+
     
     console.log(parolaInversa);
 
